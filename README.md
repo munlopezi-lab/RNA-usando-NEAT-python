@@ -85,6 +85,7 @@ Los parámetros evolutivos se encuentran definidos en el archivo:
 ```text
 config-wine
 ```
+[Reporte técnico](config-wine)
 
 Entre ellos:
 
