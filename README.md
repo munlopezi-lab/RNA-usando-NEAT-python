@@ -137,6 +137,14 @@ La siguiente imagen muestra la arquitectura obtenida por el mejor genoma encontr
 
 ---
 
+### Matriz de confución
+
+Muestra el excelente desempeño que obtuvo el mejor genoma sobre el conjunto de prueba.
+
+![Matriz de Confución](matrix_confusion.png)
+
+---
+
 ## Estructura del Proyecto
 
 ```text
