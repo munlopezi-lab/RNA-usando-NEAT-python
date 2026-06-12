@@ -123,7 +123,7 @@ La siguiente figura muestra el comportamiento del fitness durante el proceso evo
 
 La evolución de especies permite preservar diversidad genética durante la búsqueda.
 
-![Especies](speciation.svg)
+![Especies](speciation.png)
 
 ---
 
@@ -144,9 +144,9 @@ La siguiente imagen muestra la arquitectura obtenida por el mejor genoma encontr
 ├── Wine_evol.ipynb
 ├── config-wine
 ├── visualize.py
-├── fitness.svg
-├── speciation.svg
-├── winner-feedforward.gv.svg
+├── fitness.png
+├── speciation.png
+├── red_imagen.png
 └── README.md
 ```
 
