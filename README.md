@@ -115,7 +115,7 @@ La solución evolucionada fue capaz de clasificar correctamente todas las muestr
 
 La siguiente figura muestra el comportamiento del fitness durante el proceso evolutivo.
 
-![Evolución del Fitness](fitness.svg)
+![Evolución del Fitness](fit_evol.png)
 
 ---
 
